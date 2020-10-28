@@ -186,7 +186,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="text-tag">Payza</div>
-                    <img src="./images/pay.jpg" alt="" class="latest-img">
+                    <img src="./images/pay.PNG" alt="" class="latest-img">
 
                     <img src="./images/Line 1.svg" alt="" class="latest-svg">
                     <div class="d-flex justify-content-between pl-3 pr-3">
@@ -200,7 +200,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="text-tag">GrayScale</div>
-                    <img src="./images/gray.jpg" alt="" class="latest-img">
+                    <img src="./images/gray.PNG" alt="" class="latest-img">
 
                     <img src="./images/Line 1.svg" alt="" class="latest-svg">
                     <div class="d-flex justify-content-between pl-3 pr-3">
