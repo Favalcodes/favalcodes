@@ -124,17 +124,17 @@
             </p>
             <div class="row">
                 <div class="col-md-6">
-                    <div class="text-tag">Panuel Bookstore</div>
-                    <img src="./images/my port.png" alt="" class="latest-img">
+                    <div class="text-tag">PreneurPulse</div>
+                    <img src="./images/preneur.png" alt="" class="latest-img">
 
                     <img src="./images/Line 1.svg" alt="" class="latest-svg">
                     <div class="d-flex justify-content-between pl-3 pr-3">
                         <div class="name">
-                            <p><strong>Panuel Bookstore</strong><br>
-                            A Wordpress site</p>
+                            <p><strong>PreneurPulse</strong><br>
+                            A Startup site</p>
                         </div>
                         <div class="">
-                            <a href="https://panuelbookstore.com"><button class="btn">View</button></a>
+                            <a href="https://preneurpulse.com"><button class="btn">View</button></a>
                         </div>
                     </div>
                 </div>
