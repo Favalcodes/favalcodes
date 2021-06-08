@@ -125,7 +125,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="text-tag">PreneurPulse</div>
-                    <img src="./images/preneur.png" alt="" class="latest-img">
+                    <img src="./images/preneurpulse.png" alt="" class="latest-img">
 
                     <img src="./images/Line 1.svg" alt="" class="latest-svg">
                     <div class="d-flex justify-content-between pl-3 pr-3">
@@ -134,7 +134,7 @@
                             A Startup site</p>
                         </div>
                         <div class="">
-                            <a href="https://preneurpulse.com"><button class="btn">View</button></a>
+                            <a href="https://preneurpulse.com" target="_blank"><button class="btn">View</button></a>
                         </div>
                     </div>
                 </div>
@@ -148,37 +148,7 @@
                             <p><strong>Panuel Microfinance Bank</strong></p>
                         </div>
                         <div class="">
-                        <a href="https://panuelmfbank.com"><button class="btn">View</button></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="text-tag">Caveman Portfolio</div>
-                    <img src="./images/my port3.png" alt="" class="latest-img">
-
-                    <img src="./images/Line 1.svg" alt="" class="latest-svg">
-                    <div class="d-flex justify-content-between pl-3 pr-3">
-                        <div class="name">
-                            <p><strong>A Portfolio Template</strong></p>
-                        </div>
-                        <div class="">
-                        <a href="https://cavvy.netlify.app/"><button class="btn">View</button></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="text-tag3">Landing page</div>
-                    <img src="./images/screencapture-127-0-0-1-5500-index-html-2020-08-04-23_30_54.png" alt="" class="latest-img">
-
-                    <img src="./images/Line 1.svg" alt="" class="latest-svg">
-                    <div class="d-flex justify-content-between pl-3 pr-3">
-                        <div class="name">
-                            <p><strong>An App Landing page</strong></p>
-                        </div>
-                        <div class="">
-                        <a href="https://chat-landing.vercel.app/"><button class="btn">View</button></a>
+                        <a href="https://panuelmfbank.com" target="_blank"><button class="btn">View</button></a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +164,7 @@
                             <p><strong>Payza</strong></p>
                         </div>
                         <div class="">
-                        <a href="https://payza.ng/"><button class="btn">View</button></a>
+                        <a href="https://payza.ng/" target="_blank"><button class="btn">View</button></a>
                         </div>
                     </div>
                 </div>
@@ -208,7 +178,37 @@
                             <p><strong>GrayScale Intl</strong></p>
                         </div>
                         <div class="">
-                        <a href="https://grayscaleintl.com/"><button class="btn">View</button></a>
+                        <a href="https://grayscaleintl.com/" target="_blank"><button class="btn">View</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-tag">Caveman Portfolio</div>
+                    <img src="./images/my port3.png" alt="" class="latest-img">
+
+                    <img src="./images/Line 1.svg" alt="" class="latest-svg">
+                    <div class="d-flex justify-content-between pl-3 pr-3">
+                        <div class="name">
+                            <p><strong>A Portfolio Template</strong></p>
+                        </div>
+                        <div class="">
+                        <a href="https://cavvy.netlify.app/" target="_blank"><button class="btn">View</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="text-tag3">Landing page</div>
+                    <img src="./images/screencapture-127-0-0-1-5500-index-html-2020-08-04-23_30_54.png" alt="" class="latest-img">
+
+                    <img src="./images/Line 1.svg" alt="" class="latest-svg">
+                    <div class="d-flex justify-content-between pl-3 pr-3">
+                        <div class="name">
+                            <p><strong>An App Landing page</strong></p>
+                        </div>
+                        <div class="">
+                        <a href="https://chat-landing.vercel.app/" target="_blank"><button class="btn">View</button></a>
                         </div>
                     </div>
                 </div>
