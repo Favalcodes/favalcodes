@@ -29,7 +29,7 @@ header{
     line-height: 35px;
 }
 .btn{
-    width: 150px;
+    padding: 8px 16px;
     background: #f1f1f1;
 }
 
@@ -79,16 +79,20 @@ nav{
     width: 15%;
 }
 .service .col-md-4{
-    margin-top: 10px;
+    margin-top: 30px;
     padding-left: 10px;
 }
-.service-img{
+.lang{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lang img{
     width: 100%;
     height: 100%;
-}
-.service-img2{
-    width: 95%;
-    height: 100%;
+    object-fit: contain;
 }
 /* session */
 .session{
@@ -155,15 +159,17 @@ nav{
     color: #fff;
 }
 .latest .col-md-6{
-    padding: 5px;
+    padding: 5px 15px;
 }
 .latest-img{
     width: 100%;
     height: 300px;
+    object-fit: 100%;
 }
 .latest-img:hover{
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
+  cursor: pointer;
 }
 .latest-svg{
     padding-top: 15px;
@@ -171,6 +177,13 @@ nav{
 }
 .d-flex .justify{
     justify-content: end;
+}
+a{
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+    color: inherit;
 }
 
 /* Top Photographers */
@@ -213,6 +226,9 @@ nav{
 .main-contact{
     margin: auto;
     width: 90%;
+}
+.contact h4{
+    padding-right: 20px;
 }
 .form{
     padding: 20px 0;
@@ -321,8 +337,11 @@ nav{
         font-size: 17px;
     }
 }
-@media (max-width: 779.98px){
-
+@media (max-width: 480px){
+    .latest-img{
+        width: 100%;
+        height: 150px;
+    }
 }
 @media (min-width: 780px){
     .text-tag{
